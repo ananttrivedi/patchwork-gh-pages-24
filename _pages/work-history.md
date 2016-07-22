@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
+title: "Work History"
+permalink: /work-history/
 ---
 
 My work history
